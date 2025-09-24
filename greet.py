@@ -1,1 +1,2 @@
-def greet():\n    return "Hello from main!"
+def greet():
+    return "Hello updated on main branch!"
